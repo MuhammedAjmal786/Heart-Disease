@@ -15,8 +15,8 @@ This repository contains multiple implementations and analyses related to Heart 
 ## 📂 Project Structure
 ```
 ├── 📂 HeartFailurePredictiom                # Exploratory Data Analysis (EDA) scripts
-├── 📂 Happ      # Streamlit-based Diabetes Prediction app
-├── 📂 gradio        # Gradio-based Diabetes Prediction app
+├── 📂 Happ      # Streamlit-based Heart Disease Prediction app
+├── 📂 gradio        # Gradio-based Heart Disease Prediction app
 ├──  heart-heart        # Dataset
 ├──  features        # Preprocesd Data
 ├──  randomforest        # Saved model using pickle
